@@ -1,0 +1,97 @@
+,Country_eco,Score_DNSBM VRS OO_eco,Corruption Level_eco,Country_env,Score_DNSBM VRS OO_env,Corruption Level_env,Country_soc,Score_DNSBM VRS OO_soc,Corruption Level_soc
+0,Albania,1.0,High Corruption,Albania,0.210203564517001,High Corruption,Albania,1.0,High Corruption
+1,Armenia,1.0,High Corruption,Armenia,0.0793808723124373,High Corruption,Armenia,1.0,High Corruption
+2,Australia,1.0,Low Corruption,Australia,1.0,Low Corruption,Australia,1.0,Low Corruption
+3,Austria,1.0,Low Corruption,Austria,0.209762675755803,Low Corruption,Austria,1.0,Low Corruption
+4,Azerbaijan,1.0,High Corruption,Azerbaijan,0.0396105764528138,High Corruption,Azerbaijan,1.0,High Corruption
+5,"Bahamas, The",1.0,Mid Corruption,"Bahamas, The",1.0,Mid Corruption,"Bahamas, The",1.0,Mid Corruption
+6,Bahrain,1.0,High Corruption,Bahrain,4.2126685526537e-05,High Corruption,Bahrain,1.0,High Corruption
+7,Bangladesh,1.0,High Corruption,Bangladesh,0.0472294378708846,High Corruption,Bangladesh,1.0,High Corruption
+8,Belarus,1.0,Mid Corruption,Belarus,0.161960698056204,Mid Corruption,Belarus,1.0,Mid Corruption
+9,Belgium,1.0,Low Corruption,Belgium,0.0309805557664686,Low Corruption,Belgium,0.743373690265552,Low Corruption
+10,Belize,1.0,High Corruption,Belize,1.0,High Corruption,Belize,1.0,High Corruption
+11,Bhutan,1.0,Mid Corruption,Bhutan,1.0,Mid Corruption,Bhutan,1.0,Mid Corruption
+12,Bolivia,1.0,High Corruption,Bolivia,1.0,High Corruption,Bolivia,0.72126881343287,High Corruption
+13,Brazil,1.0,High Corruption,Brazil,1.0,High Corruption,Brazil,0.557009389406977,High Corruption
+14,Bulgaria,1.0,Mid Corruption,Bulgaria,0.206477350058728,Mid Corruption,Bulgaria,0.971145337411695,Mid Corruption
+15,Burundi,1.0,High Corruption,Burundi,1.0,High Corruption,Burundi,1.0,High Corruption
+16,Canada,1.0,Low Corruption,Canada,1.0,Low Corruption,Canada,0.928543377550549,Low Corruption
+17,Central African Republic,1.0,High Corruption,Central African Republic,1.0,High Corruption,Central African Republic,1.0,High Corruption
+18,Chad,1.0,High Corruption,Chad,0.242200713031594,High Corruption,Chad,1.0,High Corruption
+19,Chile,1.0,Mid Corruption,Chile,0.371467020246292,Mid Corruption,Chile,1.0,Mid Corruption
+20,China,1.0,Mid Corruption,China,1.0,Mid Corruption,China,1.0,Mid Corruption
+21,Colombia,1.0,High Corruption,Colombia,0.571561817438595,High Corruption,Colombia,1.0,High Corruption
+22,Costa Rica,1.0,Mid Corruption,Costa Rica,0.388133508104893,Mid Corruption,Costa Rica,1.0,Mid Corruption
+23,Croatia,1.0,Mid Corruption,Croatia,0.222545819479981,Mid Corruption,Croatia,0.953827109235049,Mid Corruption
+24,Cyprus,1.0,Mid Corruption,Cyprus,0.0589214789286175,Mid Corruption,Cyprus,1.0,Mid Corruption
+25,Denmark,1.0,Low Corruption,Denmark,0.0585540586485823,Low Corruption,Denmark,0.979908607489323,Low Corruption
+26,Djibouti,1.0,High Corruption,Djibouti,1.0,High Corruption,Djibouti,1.0,High Corruption
+27,Dominican Republic,1.0,High Corruption,Dominican Republic,0.19763239455348,High Corruption,Dominican Republic,0.318071970016602,High Corruption
+28,Ecuador,1.0,High Corruption,Ecuador,0.303184216090902,High Corruption,Ecuador,0.828983718446065,High Corruption
+29,El Salvador,1.0,High Corruption,El Salvador,0.119071723144597,High Corruption,El Salvador,1.0,High Corruption
+30,Estonia,1.0,Mid Corruption,Estonia,0.400984972193123,Mid Corruption,Estonia,1.0,Mid Corruption
+31,Ethiopia,1.0,High Corruption,Ethiopia,1.0,High Corruption,Ethiopia,1.0,High Corruption
+32,Finland,1.0,Low Corruption,Finland,1.0,Low Corruption,Finland,0.944723063065854,Low Corruption
+33,France,1.0,Mid Corruption,France,0.167825718221754,Mid Corruption,France,1.0,Mid Corruption
+34,Georgia,1.0,Mid Corruption,Georgia,0.299689667231258,Mid Corruption,Georgia,1.0,Mid Corruption
+35,Germany,1.0,Low Corruption,Germany,0.180729808573542,Low Corruption,Germany,0.895418601758291,Low Corruption
+36,Ghana,1.0,Mid Corruption,Ghana,0.432263864023067,Mid Corruption,Ghana,0.483905066184217,Mid Corruption
+37,Greece,1.0,Mid Corruption,Greece,0.163098868817923,Mid Corruption,Greece,1.0,Mid Corruption
+38,Guatemala,1.0,High Corruption,Guatemala,0.296387153028337,High Corruption,Guatemala,1.0,High Corruption
+39,Honduras,1.0,High Corruption,Honduras,0.530222473149601,High Corruption,Honduras,0.870869109156545,High Corruption
+40,Hungary,1.0,Mid Corruption,Hungary,0.124458973624983,Mid Corruption,Hungary,1.0,Mid Corruption
+41,Iceland,1.0,Low Corruption,Iceland,1.0,Low Corruption,Iceland,1.0,Low Corruption
+42,Indonesia,1.0,High Corruption,Indonesia,0.399537953355725,High Corruption,Indonesia,1.0,High Corruption
+43,"Iran, Islamic Rep.",1.0,High Corruption,"Iran, Islamic Rep.",0.0325042123303448,High Corruption,"Iran, Islamic Rep.",0.565711374752086,High Corruption
+44,Ireland,1.0,Mid Corruption,Ireland,0.055579945905298,Mid Corruption,Ireland,0.912723200167957,Mid Corruption
+45,Israel,1.0,Mid Corruption,Israel,0.00727838750898295,Mid Corruption,Israel,0.83850692914801,Mid Corruption
+46,Italy,1.0,Mid Corruption,Italy,0.123214358708755,Mid Corruption,Italy,0.88454958760776,Mid Corruption
+47,Jamaica,1.0,Mid Corruption,Jamaica,0.140625494109678,Mid Corruption,Jamaica,1.0,Mid Corruption
+48,Japan,1.0,Mid Corruption,Japan,0.108610335699658,Mid Corruption,Japan,1.0,Mid Corruption
+49,Kazakhstan,1.0,High Corruption,Kazakhstan,0.0361799065880336,High Corruption,Kazakhstan,0.805465869941484,High Corruption
+50,Kyrgyz Republic,1.0,High Corruption,Kyrgyz Republic,0.162787636643504,High Corruption,Kyrgyz Republic,1.0,High Corruption
+51,Lao PDR,1.0,High Corruption,Lao PDR,0.764641747198904,High Corruption,Lao PDR,1.0,High Corruption
+52,Latvia,1.0,Mid Corruption,Latvia,0.541473281444373,Mid Corruption,Latvia,1.0,Mid Corruption
+53,Lebanon,1.0,High Corruption,Lebanon,0.0127509587539371,High Corruption,Lebanon,1.0,High Corruption
+54,Lesotho,1.0,Mid Corruption,Lesotho,0.039321137598305,Mid Corruption,Lesotho,1.0,Mid Corruption
+55,Lithuania,1.0,Mid Corruption,Lithuania,0.325906975739756,Mid Corruption,Lithuania,0.887604098100418,Mid Corruption
+56,Luxembourg,1.0,Low Corruption,Luxembourg,0.0344519382213829,Low Corruption,Luxembourg,0.935564977453893,Low Corruption
+57,Madagascar,1.0,High Corruption,Madagascar,0.816820434359439,High Corruption,Madagascar,1.0,High Corruption
+58,Malaysia,1.0,Mid Corruption,Malaysia,0.115359243160504,Mid Corruption,Malaysia,1.0,Mid Corruption
+59,Mali,1.0,High Corruption,Mali,0.625136862499148,High Corruption,Mali,1.0,High Corruption
+60,Malta,1.0,Mid Corruption,Malta,0.000589996843189466,Mid Corruption,Malta,1.0,Mid Corruption
+61,Mauritania,1.0,High Corruption,Mauritania,0.0654462803909157,High Corruption,Mauritania,1.0,High Corruption
+62,Mauritius,1.0,Mid Corruption,Mauritius,0.0214436031524583,Mid Corruption,Mauritius,1.0,Mid Corruption
+63,Mexico,1.0,High Corruption,Mexico,0.239261098170505,High Corruption,Mexico,1.0,High Corruption
+64,Moldova,1.0,High Corruption,Moldova,0.100222007586756,High Corruption,Moldova,1.0,High Corruption
+65,Myanmar,1.0,High Corruption,Myanmar,0.625976270102619,High Corruption,Myanmar,1.0,High Corruption
+66,Nepal,1.0,High Corruption,Nepal,0.382601946494693,High Corruption,Nepal,1.0,High Corruption
+67,Netherlands,1.0,Low Corruption,Netherlands,0.010785156847291,Low Corruption,Netherlands,0.673373465980924,Low Corruption
+68,New Zealand,1.0,Low Corruption,New Zealand,0.404645777350261,Low Corruption,New Zealand,1.0,Low Corruption
+69,Niger,1.0,High Corruption,Niger,0.107786358478961,High Corruption,Niger,1.0,High Corruption
+70,Norway,1.0,Low Corruption,Norway,0.715429827600103,Low Corruption,Norway,0.993076179829092,Low Corruption
+71,Pakistan,1.0,High Corruption,Pakistan,0.0546245978304897,High Corruption,Pakistan,1.0,High Corruption
+72,Panama,1.0,High Corruption,Panama,0.393523699577375,High Corruption,Panama,1.0,High Corruption
+73,Peru,1.0,High Corruption,Peru,1.0,High Corruption,Peru,0.908954332005024,High Corruption
+74,Philippines,1.0,High Corruption,Philippines,0.181737863592105,High Corruption,Philippines,1.0,High Corruption
+75,Poland,1.0,Mid Corruption,Poland,0.119185111295142,Mid Corruption,Poland,1.0,Mid Corruption
+76,Portugal,1.0,Mid Corruption,Portugal,0.203941770460982,Mid Corruption,Portugal,0.874809644461064,Mid Corruption
+77,Romania,1.0,Mid Corruption,Romania,0.23659199627553,Mid Corruption,Romania,1.0,Mid Corruption
+78,Russian Federation,1.0,High Corruption,Russian Federation,1.0,High Corruption,Russian Federation,0.925136328366688,High Corruption
+79,Rwanda,1.0,Mid Corruption,Rwanda,0.163015101783292,Mid Corruption,Rwanda,1.0,Mid Corruption
+80,Serbia,1.0,Mid Corruption,Serbia,0.142330645505717,Mid Corruption,Serbia,0.935528557432767,Mid Corruption
+81,Sierra Leone,1.0,High Corruption,Sierra Leone,0.55759782559269,High Corruption,Sierra Leone,1.0,High Corruption
+82,Singapore,1.0,Low Corruption,Singapore,0.00146035814703557,Low Corruption,Singapore,1.0,Low Corruption
+83,Slovenia,1.0,Mid Corruption,Slovenia,0.182226027804952,Mid Corruption,Slovenia,1.0,Mid Corruption
+84,South Africa,1.0,Mid Corruption,South Africa,0.135827572092831,Mid Corruption,South Africa,1.0,Mid Corruption
+85,Spain,1.0,Mid Corruption,Spain,0.221010747816068,Mid Corruption,Spain,1.0,Mid Corruption
+86,Sweden,1.0,Low Corruption,Sweden,1.0,Low Corruption,Sweden,1.0,Low Corruption
+87,Switzerland,1.0,Low Corruption,Switzerland,0.109822140918841,Low Corruption,Switzerland,1.0,Low Corruption
+88,Tanzania,1.0,High Corruption,Tanzania,1.0,High Corruption,Tanzania,0.852009153675915,High Corruption
+89,Thailand,1.0,High Corruption,Thailand,0.223719746946857,High Corruption,Thailand,1.0,High Corruption
+90,Timor-Leste,1.0,High Corruption,Timor-Leste,0.22215065993655,High Corruption,Timor-Leste,1.0,High Corruption
+91,Turkiye,1.0,Mid Corruption,Turkiye,0.180519783852593,Mid Corruption,Turkiye,0.771494771407532,Mid Corruption
+92,Ukraine,1.0,High Corruption,Ukraine,0.10682136177115,High Corruption,Ukraine,1.0,High Corruption
+93,United Arab Emirates,1.0,Mid Corruption,United Arab Emirates,0.00327789971130068,Mid Corruption,United Arab Emirates,0.863727145776869,Mid Corruption
+94,United States,1.0,Low Corruption,United States,1.0,Low Corruption,United States,1.0,Low Corruption
+95,Uzbekistan,1.0,High Corruption,Uzbekistan,0.0421604137481714,High Corruption,Uzbekistan,1.0,High Corruption
